@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<CatalogDobanzi>
+
+		<Credit banca="Banca Romaneasca" tip="Creditul Bun">7.62%</Credit>
+		<Credit banca="Banca Transilvania" tip="Practic BT">9.27%</Credit>
+		<Credit banca="OTP Bank" tip="Champion">9.31%</Credit>
+		<Credit banca="BCR" tip="Divers BCR">9.91%</Credit>
+		<Credit banca="Bancpost" tip="Nume Prenume">10.11%</Credit>
+		<Credit banca="Alpha Bank" tip="Alpha Rapid">10.81%</Credit>
+		<Credit banca="Libra Internet Bank" tip="Creditul Online">11.10%</Credit>
+		<Credit banca="Piraeus Bank" tip="Credit nevoi personale">11.13%</Credit>
+		<Credit banca="BRD" tip="Expresso">11.44%</Credit>
+		<Credit banca="Credit Agricole" tip="Credit Facile">11.64%</Credit>
+		<Credit banca="ING Bank" tip="ING Personal">11.93%</Credit>
+		<Credit banca="Patria Bank" tip="Credit Plus">11.95%</Credit>
+		<Credit banca="CEC Bank" tip="Credit nevoi personale">12.70%</Credit>
+		<Credit banca="Garanti Bank" tip="Credit nevoi personale">13.10%</Credit>
+		<Credit banca="UniCredit Consumer Financing" tip="Standard">13.26%</Credit>
+		<Credit banca="Banca Feroviara" tip="Credit nevoi personale">13.88%</Credit>
+		<Credit banca="Raiffeisen Bank" tip="FlexiCredit">15.45%</Credit>
+		
+	</CatalogDobanzi>
