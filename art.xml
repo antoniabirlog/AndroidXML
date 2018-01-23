@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+   <articles>
+      <element>
+         <date>2017/03/01 12:23</date>
+         <firstpage>1</firstpage>
+         <lastpage>2</lastpage>
+         <noauthors>3</noauthors>
+         <title>c1</title>
+      </element>
+      <element>
+         <date>2000/03/01 12:23</date>
+         <firstpage>1</firstpage>
+         <lastpage>2</lastpage>
+         <noauthors>3</noauthors>
+         <title>c2</title>
+      </element>
+   </articles>
+</root>
